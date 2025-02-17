@@ -1,4 +1,4 @@
-![](https://github.com/mischn-dev/LiveSeeding-Training-T4.2/images/Liveseeding_image_github.PNG)
+![](https://github.com/mischn-dev/LiveSeeding-Training-T4.2/blob/images/Liveseeding_image_github.PNG)
 
 
 # LiveSeeding-Training-T4.2
